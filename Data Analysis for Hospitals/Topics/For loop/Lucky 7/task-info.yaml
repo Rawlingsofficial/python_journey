@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6549#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 05 Jun 2023 10:34:43 UTC"
+record: -1
+submission_language: python3

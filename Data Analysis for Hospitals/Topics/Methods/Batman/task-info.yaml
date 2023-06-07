@@ -1,0 +1,21 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  highlight_level: NONE
+  text: '# create a Batman here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8090#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Runtime error
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 11, in <module>
+        batman = batman()
+    NameError: name 'batman' is not defined
+  time: "Mon, 05 Jun 2023 12:16:31 UTC"
+record: -1
+submission_language: python3

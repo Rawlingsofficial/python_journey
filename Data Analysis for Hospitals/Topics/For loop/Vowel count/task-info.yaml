@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    string = "red yellow fox bite orange goose beeeeeeeeeeep"
+    vowels = 'aeiou'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7199#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: "Mon, 05 Jun 2023 10:30:32 UTC"
+record: -1
+submission_language: python3
